@@ -6,5 +6,5 @@ Para la **limpieza** de datos he realizado los siguientes pasos:
 1. Importar modulos y visualizar el archivo attacks.
 2. Filtro del dataframe las columnas que voy a utilizar para el estudio
 3. Estudio de los valores nulos en el dataframe y los elimino
-4. Limpieza con Regex de la columna Date
+4. Limpieza con Regex de la columna Date y creación de la columna Year
 5. 
