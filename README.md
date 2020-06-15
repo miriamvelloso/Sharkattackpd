@@ -1,3 +1,6 @@
+![](https://github.com/miriamvelloso/Sharkattackpd/blob/master/Input/sharkattackimage.jpg)
+
+
 # SHARK ATTACK ANALYSIS
 
 En este analisis quiero demostrar que con el paso de los años los tiburones han pasado de atacar a nadadores a surfistas en las costas estadounidenses.
