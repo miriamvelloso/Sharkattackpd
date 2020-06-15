@@ -11,5 +11,5 @@ Para la **limpieza** de datos he realizado los siguientes pasos:
 
 Para el **analisis** de datos he realizado los siguientes pasos:
 1. Creo una columna llamada Siglo para que el analisis sea más facil
-2.Veo que el 90% de los ataques han ocurrido en el siglo XX
-3.finalmente se comprueba que durante los siglos XVIII,XIX,XX los ataques de tiburones eran principalmente a nadadores y en el siglo XXI se disparó los ataques a surfistas.
+2. Veo que el 90% de los ataques han ocurrido en el siglo XX
+3. finalmente se comprueba que durante los siglos XVIII,XIX,XX los ataques de tiburones eran principalmente a nadadores y en el siglo XXI se disparó los ataques a surfistas.
