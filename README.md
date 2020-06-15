@@ -1,4 +1,4 @@
-![https://github.com/miriamvelloso/Sharkattackpd/blob/master/Input/sharkattackimage.jpg]
+![](https://github.com/miriamvelloso/Sharkattackpd/blob/master/Input/sharkattackimage.jpg)
 
 
 # SHARK ATTACK ANALYSIS
