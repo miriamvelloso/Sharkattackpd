@@ -3,14 +3,15 @@
 
 # SHARK ATTACK ANALYSIS
 
-En este analisis quiero demostrar que con el paso de los años los tiburones han pasado de atacar a nadadores a surfistas en las costas estadounidenses.
+En este analisis quiero demostrar que con el paso de los años los tiburones han pasado de atacar nadadores a surfistas en las costas estadounidenses.
 
 Para la **limpieza** de datos he realizado los siguientes pasos:
 1. Importar modulos y visualizar el archivo attacks.
-2. Filtro del dataframe las columnas que voy a utilizar para el estudio
-3. Estudio de los valores nulos en el dataframe y los elimino
-4. Limpieza con Regex de la columna Date y creación de la columna Year
-5. 
+2. Filtro del dataframe las columnas que voy a utilizar para el estudio.
+3. Estudio de los valores nulos en el dataframe y los elimino.
+4. Limpieza con Regex de la columna Date y creación de la columna "Year".
+5. Filtro por las actividades "Surfing" y "Swimming".
+6. Guardo el archivo en CSV que será utilizado para el analisis.
 
 Para el **analisis** de datos he realizado los siguientes pasos:
 1. Creo una columna llamada Siglo para que el analisis sea más facil
